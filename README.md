@@ -3,7 +3,9 @@ This is a code stream for flow rate based on foam-extend-4.1.
 
 
 ## Mathematical Relationships
-$$ Q = \int U \ dA  $$
+$$ Q = \int U \ dA $$
+
+Which $Q$, $U$, and $dA$ are flow rate, velocity vector, and area element, respectively.
 
 
 ## Installation
